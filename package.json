@@ -1,0 +1,27 @@
+{
+  "name": "monitoring-login",
+  "version": "1.0.0",
+  "description": "login with  google",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshit-Badaya/monitoring-login.git"
+  },
+  "keywords": [
+    "login",
+    "javascript",
+    "google"
+  ],
+  "author": "Harshit Badaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshit-Badaya/monitoring-login/issues"
+  },
+  "homepage": "https://github.com/Harshit-Badaya/monitoring-login#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
